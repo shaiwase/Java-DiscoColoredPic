@@ -1,6 +1,6 @@
 /**
  * 
- * @author karine Or TZ : 310261243 Course 20441
+ * @author karine  Course 20441
  * @category MMN13
  * This class represents a colored picture represented by a Multidimentional array of object from RGBColor class
  * Each point in the picture is  a pixel that represents the color on coordinates.
